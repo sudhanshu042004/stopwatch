@@ -1,0 +1,34 @@
+#display{
+    font-size: 75px;
+    color: #7f89df;
+}
+.watch{
+    background-color: #252c6a;
+    border-radius: 26px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+    align-self: center;
+}
+.button{
+    padding: 0px 0px 15px 0px;
+}
+#start{
+    height: 25px;
+    width: 80px;
+    border: 3px;
+    border-radius: 5px;
+}
+#pause{
+    height: 25px;
+    width: 80px;
+    border: 3px;
+    border-radius: 5px;
+}
+#reset{
+    height: 25px;
+    width: 80px;
+    border: 3px;
+    border-radius: 5px;
+}
